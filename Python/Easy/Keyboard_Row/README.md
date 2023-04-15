@@ -13,18 +13,18 @@ In the American keyboard:
 ### **:bulb: Example**:
 
 **Example 1**:
-Input: words = ["Hello","Alaska","Dad","Peace"]
-Output: ["Alaska","Dad"]
+- Input: words = ["Hello","Alaska","Dad","Peace"]
+- Output: ["Alaska","Dad"]
 
 **Example 2**:
-Input: words = ["omk"]
-Output: []
+- Input: words = ["omk"]
+- Output: []
 
 **Example 3**:
-Input: words = ["adsdf","sfd"]
-Output: ["adsdf","sfd"]
+- Input: words = ["adsdf","sfd"]
+- Output: ["adsdf","sfd"]
 
-### **:lock:Constraints**:
+### **:lock: Constraints**:
 
 - 1 <= words.length <= 20
 - 1 <= words[i].length <= 100

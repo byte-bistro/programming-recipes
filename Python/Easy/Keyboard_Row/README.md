@@ -10,33 +10,21 @@ In the American keyboard:
 - the second row consists of the characters "asdfghjkl", and
 - the third row consists of the characters "zxcvbnm".
 
-<hr>
-
 ### **:bulb: Example**:
 
-<table border="0">
- <tr>
-    <td><b style="font-size:30px">Example 1</b></td>
-    <td><b style="font-size:30px">Example 2</b></td>
-    <td><b style="font-size:30px">Example 3</b></td>
- </tr>
- <tr>
-    <td>
-      Input: words = ["Hello","Alaska","Dad","Peace"]
-      <br>Output: ["Alaska","Dad"]
-    </td>
-    <td>
-      Input: words = ["omk"]
-      <br>Output: []
-    </td>
-    <td>
-      Input: words = ["adsdf","sfd"]
-      <br>Output: ["adsdf","sfd"]
-    </td>
- </tr>
-</table>
+<pre>
+<strong>Example 1:</strong>
+Input: words = ["Hello","Alaska","Dad","Peace"]
+Output: ["Alaska","Dad"]
 
-<hr>
+<strong>Example 2:</strong>
+Input: words = ["omk"]
+Output: []
+
+<strong>Example 3:</strong>
+Input: words = ["adsdf","sfd"]
+Output: ["adsdf","sfd"]
+</pre>
 
 ### **:lock: Constraints**:
 

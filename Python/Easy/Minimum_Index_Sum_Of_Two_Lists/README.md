@@ -1,4 +1,4 @@
-# Keyboard Row
+# Minimum Index Sum of Two Lists
 **Difficulty**: Easy | **Data Structures**: Array, Hash Table, String | **Link**: [leetcode.com/problems/minimum-index-sum-of-two-lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists)
 
 ### **:page_facing_up: Description**:
